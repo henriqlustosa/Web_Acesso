@@ -1,0 +1,31 @@
+﻿body
+{
+}
+
+h1
+{
+    font-family:Arial;
+    background-position:center;
+}
+.center
+{
+    background-position:center;
+}
+.table
+{
+    border:2px solid black;
+    border-collapse:collapse; 
+}
+tr,td
+{
+    border:1px solid black;
+    text-align: center;
+}
+.txBox
+{
+    border-width:0;
+}
+.centro  {
+	margin-right: auto;
+	margin-left: auto;
+}
